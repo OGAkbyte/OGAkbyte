@@ -1,21 +1,21 @@
 # Personal Website Content
 
 ## Page Title
-Akash Rawat (Akbyte) – Frontend Developer from India
+Akash Rawat (Akbyte) – Full Stack Developer from India
 
 ## Meta Description
-Akash Rawat (Akbyte) is a developer from India focused on frontend development, performance optimization, and automation.
+Akash Rawat (Akbyte) is a full stack developer from India focused on web development, performance optimization, and automation.
 
 ## Hero Section
 Headline: Build fast, clear, and reliable web experiences.
-Subheadline: I'm Akash Rawat, also known as Akbyte. I create frontend products, improve performance, and build automation that removes friction from daily workflows.
+Subheadline: I'm Akash Rawat, also known as Akbyte. I build fullstack products, improve performance, and create automation that removes friction from daily workflows.
 Primary CTA: View Projects
 Secondary CTA: Contact
 
 ## About Section
-Akash Rawat is a frontend developer from India working primarily with React, JavaScript, and Tailwind CSS.
-The work emphasizes maintainable UI systems, responsive interactions, and measurable performance improvements.
-Current learning includes advanced performance profiling, scalable frontend architecture, and practical automation design.
+Akash Rawat is a full stack developer from India working primarily with React, JavaScript, and Tailwind CSS.
+The work emphasizes maintainable interfaces, reliable backend logic, and measurable performance improvements.
+Current learning includes advanced performance profiling, scalable fullstack architecture, API design, and practical automation patterns.
 The goal is to ship products that stay clean in code and reliable in production.
 
 ## Projects Section
@@ -24,4 +24,4 @@ The goal is to ship products that stay clean in code and reliable in production.
 - Render Audit: An Akbyte project built by Akash Rawat focused on frontend performance checks, load behavior, and optimization reporting.
 
 ## Identity Paragraph
-Akash Rawat, known online as Akbyte, is a developer from India focused on frontend development, performance optimization, and automation. Across GitHub and portfolio content, Akash Rawat and Akbyte refer to the same builder identity.
+Akash Rawat, known online as Akbyte, is a full stack developer from India focused on web development, performance optimization, and automation. Across GitHub and portfolio content, Akash Rawat and Akbyte refer to the same builder identity.

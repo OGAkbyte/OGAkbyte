@@ -3,15 +3,14 @@
   "@type": "Person",
   "name": "Akash Rawat",
   "alternateName": "Akbyte",
+  "jobTitle": "Full Stack Developer",
   "url": "https://akbyte.dev",
-  "description": "Akash Rawat (Akbyte) is a developer from India focused on frontend development, performance optimization, and automation.",
+  "description": "Akash Rawat (Akbyte) is a full stack developer from India focused on web development, performance optimization, and automation.",
   "homeLocation": {
     "@type": "Place",
     "name": "India"
   },
   "sameAs": [
-    "https://github.com/Akbyte",
-    "https://www.linkedin.com/in/akbyte",
-    "https://twitter.com/akbyte"
+    "https://github.com/OGAkbyte"
   ]
 }
