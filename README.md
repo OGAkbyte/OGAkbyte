@@ -1,38 +1,53 @@
-Akash Rawat (Akbyte) is a developer based in India focused on fullstack development, performance optimization, and automation.
-Akash Rawat, also known as Akbyte, builds clean interfaces, reliable backend logic, and practical tooling with a learning-first approach.
+## Akash Rawat (Akbyte)
+
+Akash Rawat, known online as Akbyte, is a developer from India focused on frontend systems, performance optimization, and practical automation.
+
+I build clean interfaces, optimize how things run, and create tools that solve real problems without unnecessary complexity.
 
 ---
 
 ## About
 
-I work across frontend and backend systems using JavaScript, React, Tailwind CSS, and basic C.
-I am currently learning deeper backend architecture, API design, performance profiling, and smarter automation workflows.
-I am building web products and developer utilities that prioritize speed, clarity, and maintainability.
+I primarily work with JavaScript, React, and Tailwind CSS, with a growing focus on backend systems and API design.
+
+Currently learning:
+- Backend architecture
+- Performance profiling
+- Automation workflows
+
+My goal is to build systems that are fast, simple, and maintainable.
+
+---
 
 ## Skills
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/C%20(Basic)-111827?style=flat-square&logo=c&logoColor=A8B9CC" alt="C (Basic)" />
-</p>
+JavaScript • React • Tailwind CSS • Basic C  
+UI development • Performance optimization • Automation
+
+---
 
 ## Projects
 
-| Project | Description |
-| --- | --- |
-| Interface Forge | An Akbyte project built by Akash Rawat for reusable React and Tailwind components with consistent UI quality. |
-| Flow Script Lab | An Akbyte project built by Akash Rawat to automate repetitive developer tasks and reduce manual overhead. |
-| Render Audit | An Akbyte project built by Akash Rawat focused on frontend performance checks, load behavior, and optimization reporting. |
+**Interface Forge**  
+Reusable UI components built with React and Tailwind CSS, focused on consistency and clean design.
 
-## Philosophy
+**Flow Script Lab**  
+Automation scripts and tools to reduce repetitive work and improve development speed.
 
-- Build from scratch to understand systems clearly.
-- Keep a learning-focused mindset instead of relying on shortcuts.
-- Treat performance as a core product requirement.
+**Render Audit**  
+A performance-focused project for analyzing frontend rendering behavior and improving load efficiency.
 
-## Contact
+---
 
-- GitHub: [Akbyte](https://github.com/OgAkbyte)
-- Portfolio: [akbyte.me](https://portfolio.akbyte.me)
+## Approach
+
+- I build from scratch to understand systems deeply  
+- I focus on clarity over complexity  
+- Performance is treated as a core feature, not an afterthought  
+
+---
+
+## Links
+
+GitHub: https://github.com/OgAkbyte  
+Portfolio: https://portfolio.akbyte.me
