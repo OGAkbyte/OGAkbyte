@@ -1,53 +1,61 @@
-## Akash Rawat (Akbyte)
+<h2 align="center">Akash Rawat</h2>
+<p align="center">
+  <strong>Akbyte</strong> • Developer • India
+</p>
 
-Akash Rawat, known online as Akbyte, is a developer from India focused on frontend systems, performance optimization, and practical automation.
-
-I build clean interfaces, optimize how things run, and create tools that solve real problems without unnecessary complexity.
-
----
-
-## About
-
-I primarily work with JavaScript, React, and Tailwind CSS, with a growing focus on backend systems and API design.
-
-Currently learning:
-- Backend architecture
-- Performance profiling
-- Automation workflows
-
-My goal is to build systems that are fast, simple, and maintainable.
+<p align="center">
+  I build interfaces, optimize performance, and automate the boring parts of development.
+</p>
 
 ---
 
-## Skills
+## Who I Am
+
+Akash Rawat, known as Akbyte, is a developer focused on building fast, clean, and reliable systems.
+
+I don’t like unnecessary complexity.  
+I prefer understanding how things work under the hood and building them properly.
+
+---
+
+## What I Work With
 
 JavaScript • React • Tailwind CSS • Basic C  
-UI development • Performance optimization • Automation
+
+Frontend Systems • Performance Optimization • Automation
 
 ---
 
-## Projects
+## What I’m Building
 
 **Interface Forge**  
-Reusable UI components built with React and Tailwind CSS, focused on consistency and clean design.
+Reusable UI components with consistent structure and clean design.
 
 **Flow Script Lab**  
-Automation scripts and tools to reduce repetitive work and improve development speed.
+Automation tools that remove repetitive work from development.
 
 **Render Audit**  
-A performance-focused project for analyzing frontend rendering behavior and improving load efficiency.
+Focused on analyzing rendering performance and improving load behavior.
 
 ---
 
-## Approach
+## How I Think
 
-- I build from scratch to understand systems deeply  
-- I focus on clarity over complexity  
-- Performance is treated as a core feature, not an afterthought  
+- If I don’t understand it, I rebuild it  
+- If it’s slow, I optimize it  
+- If it’s repetitive, I automate it  
 
 ---
 
-## Links
+## Current Focus
 
-GitHub: https://github.com/OgAkbyte  
-Portfolio: https://portfolio.akbyte.me
+- Backend systems and API design  
+- Performance profiling  
+- Writing cleaner, more efficient code  
+
+---
+
+## Connect
+
+GitHub → https://github.com/OgAkbyte  
+Portfolio → https://portfolio.akbyte.me
