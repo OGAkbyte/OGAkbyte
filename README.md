@@ -1,61 +1,94 @@
 <h2 align="center">Akash Rawat</h2>
+
 <p align="center">
-  <strong>Akbyte</strong> • Developer • India
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=420&lines=Akbyte+%E2%80%A2+Developer;Building+clean+interfaces;Optimizing+performance;Automating+workflows" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  I build interfaces, optimize performance, and automate the boring parts of development.
+  Developer from India focused on building fast, clean, and reliable systems.
 </p>
 
 ---
 
 ## Who I Am
 
-Akash Rawat, known as Akbyte, is a developer focused on building fast, clean, and reliable systems.
+Akash Rawat, known online as Akbyte, builds systems that are simple, efficient, and practical.
 
-I don’t like unnecessary complexity.  
-I prefer understanding how things work under the hood and building them properly.
-
----
-
-## What I Work With
-
-JavaScript • React • Tailwind CSS • Basic C  
-
-Frontend Systems • Performance Optimization • Automation
+I focus on understanding how things work, not just using them.
 
 ---
 
-## What I’m Building
+## Stack
+
+<p align="center">
+  JavaScript • React • Tailwind CSS • C (basic)
+</p>
+
+<p align="center">
+  Frontend Systems • Performance • Automation
+</p>
+
+---
+
+## Selected Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="300px" align="left">
 
 **Interface Forge**  
-Reusable UI components with consistent structure and clean design.
+Reusable UI components built with consistency and clarity.
+
+</td>
+
+<td width="300px" align="left">
 
 **Flow Script Lab**  
-Automation tools that remove repetitive work from development.
+Automation tools designed to remove repetitive work.
+
+</td>
+</tr>
+
+<tr>
+<td width="300px" align="left">
 
 **Render Audit**  
-Focused on analyzing rendering performance and improving load behavior.
+Focused on analyzing and improving frontend performance.
+
+</td>
+
+<td width="300px" align="left">
+
+**More Coming**  
+Always building and refining new ideas.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## How I Think
+## Approach
 
-- If I don’t understand it, I rebuild it  
-- If it’s slow, I optimize it  
-- If it’s repetitive, I automate it  
-
----
-
-## Current Focus
-
-- Backend systems and API design  
-- Performance profiling  
-- Writing cleaner, more efficient code  
+<p align="center">
+  Build from scratch • Optimize aggressively • Automate when possible
+</p>
 
 ---
 
 ## Connect
 
-GitHub → https://github.com/OgAkbyte  
-Portfolio → https://portfolio.akbyte.me
+<p align="center">
+  <a href="https://github.com/OgAkbyte">GitHub</a> • 
+  <a href="https://portfolio.akbyte.me">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Always building. Always improving.</sub>
+</p>
